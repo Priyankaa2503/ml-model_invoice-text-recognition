@@ -9,4 +9,5 @@ OCR performed on document/invoice with Tesseract, OpenCV, and Python.
 
 <br>
 **OCR image**<br>
+
 ![alt text](https://github.com/ankurawat4/OCR-optical-character-recognition-/blob/main/fig_2.png)
