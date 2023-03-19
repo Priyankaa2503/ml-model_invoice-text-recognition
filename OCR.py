@@ -99,8 +99,6 @@ for (locID, result) in results.items():
 	cv2.putText(image, clean, (x,y),
 			cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 255), 2)
 
- 
-
  # show the input and output images, resizing it such that they fit on our screen
 print(cleaned_result)
 cv2.imshow("Input", imutils.resize(img, width=700))
